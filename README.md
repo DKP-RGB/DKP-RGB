@@ -97,7 +97,7 @@ Currently in Development
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=DKP-RGB&theme=tokyonight" width="49%"/>
 
 <!-- Streak stats - different service -->
-<img src="https://streak-stats.demolab.com?user=DKP-RGB&theme=tokyonight&hide_border=true&card_width=60" alt="GitHub Streak" />
+<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=DKP-RGB&theme=tokyonight&hide_border=true&card_width=60" alt="GitHub Streak" /></a>
 
 
 </div>
