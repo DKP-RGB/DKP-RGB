@@ -1,6 +1,6 @@
-<div align="center">
-
-<img src="header001.svg" alt="Devansh Kumar Patidar" width="100%"/>
+<p align="center">
+  <img src="./header001.svg" alt="Devansh Kumar Patidar Banner" width="100%">
+</p>
 
 <br/>
 
