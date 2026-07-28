@@ -133,9 +133,9 @@ while not_coding:
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Manthan_Awaya-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/manthan-awaya/)
-[![Gmail](https://img.shields.io/badge/Gmail-manthanawaya%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:manthanawaya@gmail.com)
-[![Instagram](https://img.shields.io/badge/Instagram-%40manthan__awaya-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/manthan_awaya?igsh=MWhjc3Vib2ZnMmoxNg==)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-DevanshKumarPatidar-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)]([https://www.linkedin.com/in/manthan-awaya/](https://www.linkedin.com/in/devansh-kumar-patidar-06ab56376/))
+[![Gmail](https://img.shields.io/badge/Gmail-DevanshKumarPatidar%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:DevanshKumarPatidar@gmail.com)
+[![Instagram](https://img.shields.io/badge/Instagram-%40dk_patidar77-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/dk_patidar77)
 
 <br/>
 
