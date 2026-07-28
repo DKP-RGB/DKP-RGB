@@ -4,6 +4,7 @@
 
 <br/>
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=20&duration=2800&pause=1000&color=13DF2C&center=true&vCenter=true&width=435&lines=Hackathon+Lover+%E2%9D%A4%EF%B8%8F;%F0%9F%9A%80+Built+Skill+Matrix+;an+Adaptive+Learning+Platform+" alt="Typing SVG" /></a>
+
 <br/>
 
 ![Profile Views](https://komarev.com/ghpvc/?username=DKP-RGB&style=for-the-badge&color=0e75b6&label=PROFILE+VIEWS)
