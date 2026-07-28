@@ -1,0 +1,58 @@
+<svg xmlns="http://www.w3.org/2000/svg"
+     viewBox="0 0 1000 80"
+     width="1000"
+     height="80">
+
+    <defs>
+
+        <filter id="glow" x="-50%" y="-50%" width="200%" height="200%">
+            <feGaussianBlur stdDeviation="6" result="blur"/>
+            <feMerge>
+                <feMergeNode in="blur"/>
+                <feMergeNode in="SourceGraphic"/>
+            </feMerge>
+        </filter>
+
+        <linearGradient id="green">
+            <stop offset="0%" stop-color="#00ff41"/>
+            <stop offset="100%" stop-color="#39ff14"/>
+        </linearGradient>
+
+    </defs>
+
+    <!-- Dim border -->
+    <rect
+        x="5"
+        y="5"
+        width="990"
+        height="70"
+        rx="8"
+        fill="none"
+        stroke="#003300"
+        stroke-width="2"/>
+
+    <!-- Moving neon -->
+    <rect
+        x="5"
+        y="5"
+        width="990"
+        height="70"
+        rx="8"
+        fill="none"
+        stroke="url(#green)"
+        stroke-width="4"
+        stroke-linecap="round"
+        filter="url(#glow)"
+        pathLength="2120"
+        stroke-dasharray="180 1940">
+
+        <animate
+            attributeName="stroke-dashoffset"
+            from="0"
+            to="-2120"
+            dur="4s"
+            repeatCount="indefinite"/>
+
+    </rect>
+
+</svg>
