@@ -133,8 +133,8 @@ while not_coding:
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-DevanshKumarPatidar-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)]([https://www.linkedin.com/in/manthan-awaya/](https://www.linkedin.com/in/devansh-kumar-patidar-06ab56376/))
-[![Gmail](https://img.shields.io/badge/Gmail-DevanshKumarPatidar%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:DevanshKumarPatidar@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Devansh_Kumar_Patidar-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)]((https://www.linkedin.com/in/devansh-kumar-patidar-06ab56376/))
+[![Gmail](https://img.shields.io/badge/Gmail-Devansh_Kumar_Patidar%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:DevanshKumarPatidar@gmail.com)
 [![Instagram](https://img.shields.io/badge/Instagram-%40dk_patidar77-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/dk_patidar77)
 
 <br/>
