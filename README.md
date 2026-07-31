@@ -139,6 +139,6 @@ while not_coding:
 
 <br/>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:8b5cf6,100:00d9ff&height=100&section=footer&animation=fadeIn" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:021402,50:39ff14,100:003b00&height=100&section=footer&animation=fadeIn" width="100%"/>
 
 </div>
