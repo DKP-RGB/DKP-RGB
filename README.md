@@ -72,12 +72,12 @@ Built an intelligent healthcare assistant that analyzes user symptoms using Natu
 </td>
 <td width="33%" valign="top">
 
-### 🎪 Tent on Rent
-> **Event Booking Platform**
+### 🎪 PromoptDocs
+  > **i Inovice and documents generator **
 
 Currently in Development
 
-`UI/UX` · `Backend` · `React`
+`Node.js` · `Backend` · `React`
 
 </td>
 </tr>
