@@ -52,8 +52,8 @@
 <tr>
 <td width="33%" valign="top">
 
-### 📊 
-> **Tent on Rent **
+### 🎪 Tent on Rent
+> **Tent rental  **
 
 Currently in Development
 
@@ -72,7 +72,7 @@ Built an intelligent healthcare assistant that analyzes user symptoms using Natu
 </td>
 <td width="33%" valign="top">
 
-### 🎪 PromoptDocs
+### 📌 PromoptDocs
   > **i Inovice and documents generator **
 
 Currently in Development
