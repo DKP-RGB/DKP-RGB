@@ -52,30 +52,30 @@
 <tr>
 <td width="33%" valign="top">
 
-### 🎪 Tent on Rent
-> **Tent rental  **
+### 🔒 SecretFirewall
+> **local-first security laye**
 
-Currently in Development
+Open-source, local-first security layer that detects, classifies, redacts, blocks, and safely auto-fixes secret exposure in developer and AI-coding-agent workflows.
 
-`React` · `Data Analysis` · `Algorithms`
+`Security` · `automation` · `Algorithms`
 
 </td>
 <td width="33%" valign="top">
 
-### 🩺 Medical Chatbot
-> **AI-Powered Medical Chatbot**
+### 🔍 CivicLens 
+> **AI-Powered Complaint System**
 
-Built an intelligent healthcare assistant that analyzes user symptoms using Natural Language Processing and provides relevant health guidance through an interactive conversational interface.
+CivicLens is an AI-powered civic intelligence platform designed to simplify access to public information, helping citizens explore government data.
 
 `AI/ML` · `Python` · `NLP`
 
 </td>
 <td width="33%" valign="top">
 
-### 📌 PromoptDocs
-  > **i Inovice and documents generator **
+### 📌 Skill-Matrix
+> **AI-powered adaptive assessment platform**
 
-Currently in Development
+An AI-powered adaptive assessment and skill analytics platform featuring real-time difficulty adjustment.
 
 `Node.js` · `Backend` · `React`
 
