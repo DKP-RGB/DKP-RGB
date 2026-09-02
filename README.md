@@ -67,7 +67,7 @@ Open-source, local-first security layer that detects, classifies, redacts, block
 
 CivicLens is an AI-powered civic intelligence platform designed to simplify access to public information, helping citizens explore government data.
 
-`AI/ML` · `React` · `Chatbot`
+`AI/ML` · `React` · `Automation`
 
 </td>
 <td width="33%" valign="top">
