@@ -123,7 +123,7 @@ An AI-powered adaptive assessment and skill analytics platform featuring real-ti
 while not_coding:
     if mood == "competitive":  go_play("online games 🎮")
     if mood == "active":       go_play("football ⚽")
-    if mood == "chill":        watch("a show 🎥")
+    if mood == "chill":        watch("a movie 🎥")
     if mood == "creative":     shoot("pictures 📸")
 ```
 
